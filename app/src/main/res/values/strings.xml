@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArduinoBLE</string>
+    <string name="pair">Show Pair</string>
+    <string name="select_a_pairing_device">Select A Paired Device</string>
+</resources>
